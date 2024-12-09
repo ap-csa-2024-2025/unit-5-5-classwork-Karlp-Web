@@ -12,5 +12,10 @@ public class Main
 
     p2.x = 1;
     p2.y = 0;
+
+    Dog d = new Dog();
+    d.breed = "Corgi";
+    d.size = 5.0;
+    d.colorOfFur = "Blue";
   }
 }
