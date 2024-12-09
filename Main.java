@@ -18,6 +18,9 @@ public class Main
     p1.setX(5);
     p2.setX(10);
 
+    p1.setY(10);
+    p2.setY(5);
+
 //Dog example
     Dog d = new Dog();
     d.breed = "Corgi";
