@@ -28,5 +28,16 @@ public class Main
     d.colorOfFur = "Blue";
 
 //  Example
+    Scanner sc = new Scanner(System.in);
+    Point2D = new Point2D();
+
+    System.out.println("Give me two numbers");
+    int in_x = sc.nextInt();
+    int in_y = sc.nextInt();
+
+    p1.setX(in_x);
+    p1.setY(in_y):
+
+    System.out.println("You made a point at ("+ p1.x +", "+ p2.y +")" );
   }
 }
